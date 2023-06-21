@@ -13,7 +13,7 @@ You can see the description of the implementation method in the following file:
 
 ## Results
 
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/3.png)
 ![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/1.png)
 ![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/2.png)
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/PersianSpeechRecognition-RNN-LSTM-GRU/main/Results/3.png)
 
